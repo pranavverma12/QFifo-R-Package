@@ -1,0 +1,12 @@
+Package: qfifo
+Title: A simple queue class written in S3
+Version: 0.0.0.9000
+Authors@R: person("Pranav", "Verma", email = "p.verma2@nuigalway.ie", role = c("aut", "cre"))
+Description: Assignment for queue.
+Depends: R (>= 3.5.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
+RoxygenNote: 6.1.1
